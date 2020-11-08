@@ -10,7 +10,7 @@ Currently I'm deepening the javascript language.
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🌱 I’m currently learning ReactJS</br>
+    - 🌱 I’m currently learning ReactJS, ExpressJS, Sequelize</br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:ramaseftiansyah12@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
