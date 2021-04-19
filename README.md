@@ -33,7 +33,7 @@ Currently I'm deepening the javascript language.
 
 ### Let's connect!
 <p>
-    <a href="https://www.linkedin.com/in/rama-seftiansyah-8002171b3/" target="blank"><img src="https://img.shields.io/badge/Rama_Seftiansyah-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.linkedin.com/in/rama-seftiansyah/" target="blank"><img src="https://img.shields.io/badge/Rama_Seftiansyah-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://www.facebook.com/rama.seftiansyah.14" target="blank"><img src="https://img.shields.io/badge/Rama_Seftiansyah-30302f?style=flat&logo=facebook" /></a>
   <a href="https://wa.me/6289522407667" target="blank"><img src="https://img.shields.io/badge/Chat%20With%20Me!-30302f?style=flat&logo=whatsapp"/></a>
 </p>
