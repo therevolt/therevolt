@@ -26,8 +26,6 @@ Currently I'm deepening the javascript language.
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=therevolt&show_icons=true&theme=solarized-dark" />
-</p>
-<p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therevolt&layout=compact&theme=midnight-purple" height=150/>
 </p>
 
