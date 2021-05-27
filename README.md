@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Rama!
+# Hi there 👋 , I'm Rama Seftiansyah!
 Currently I'm deepening the javascript language.
 
 ### Tools:
